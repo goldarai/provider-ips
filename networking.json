@@ -1,0 +1,30 @@
+[
+ {
+   "Provider": "Github",
+   "Range": "192.30.252.0/22"
+ },
+ {
+   "Provider": "Github",
+   "Range": "185.199.108.0/22"
+ },
+ {
+   "Provider": "Github",
+   "Range": "140.82.112.0/20"
+ },
+ {
+   "Provider": "Thomson-Reuters",
+   "Range": "200.61.174.176/29"
+ },
+ {
+   "Provider": "Thomson-Reuters",
+   "Range": "159.220.58.6/32"
+ },
+ {
+   "Provider": "Thomson-Reuters",
+   "Range": "159.220.58.1/32"
+ },
+ {
+   "Provider": "Thomson-Reuters",
+   "Range": "159.220.58.3/32"
+ }, 
+]
